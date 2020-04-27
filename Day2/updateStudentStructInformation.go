@@ -5,7 +5,7 @@ import "fmt"
 type StudentStruct struct {
 	firstName string
 	lastName  string
-	age       int8
+	age       int
 }
 
 func main() {
